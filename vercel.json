@@ -1,0 +1,6 @@
+{
+  "crons": [
+    { "path": "/api/import/all", "schedule": "15 5 * * *" },
+    { "path": "/api/import/places", "schedule": "30 4 * * 1" }
+  ]
+}
